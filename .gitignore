@@ -1,0 +1,9 @@
+# Executables
+main
+
+# Cargo files
+Cargo.lock
+**/target
+
+# IDE files
+**/.vscode
